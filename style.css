@@ -1,8 +1,29 @@
 * {
   font-family: 'Montserrat', sans-serif;
 }
+.navbar {
+  background-color: white;
+}
+.nav-logo{
+  height: 5em;
+}
+.navbar-right{
+  padding-top: 1%;
+}
 
+.twitter-logo {
+  margin-top: 3.7px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.splash {
+  height: 15em;
+}
 
 .web-art {
    width: 30em;
+   padding: 2em;
 }
