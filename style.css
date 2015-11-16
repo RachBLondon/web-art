@@ -1,7 +1,9 @@
 * {
   font-family: 'Montserrat', sans-serif;
 }
-
+.nav-logo{
+  height: 5em;
+}
 
 .web-art {
    width: 30em;
